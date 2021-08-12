@@ -17,7 +17,7 @@ body {
   }
   
   #mainHeading {
-    color: #1b686b;
+    color: red;
     margin: 30px;
     font-size: 50px
   }
@@ -29,7 +29,7 @@ body {
   }
   
   .funParagraph {
-    color: #10731a;
+    color: green;
   }
   
   #secondP {
