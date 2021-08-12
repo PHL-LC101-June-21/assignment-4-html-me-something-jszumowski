@@ -1,1 +1,61 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    displayType: "block";
+  }
+  
+  ol {
+    padding: 80px;
+    font-size: 20px;
+    color: #1b686b
+  }
+  
+  #techTree {
+    width: 350px;
+    height: 300px;
+    padding-right: 80px
+  }
+  
+  #mainHeading {
+    color: #1b686b;
+    margin: 30px;
+    font-size: 50px
+  }
+  
+  h2 {
+    color: #fafafa;
+    background-color: #1b686b;
+    padding: 20px;
+  }
+  
+  .funParagraph {
+    color: #10731a;
+  }
+  
+  #secondP {
+    color: #1b5e22;
+  }
+  
+  #thirdP {
+    color: #1d4a21;
+  }
+  
+  #fourthP {
+    color: #054a18;
+  }
+  
+  .closing {  
+    float: right;
+    margin: 30px;
+    color:  #054a18;
+  }
+  
+  footer {
+    background-color: #1b686b;
+    color: #fafafa;
+    font-size: 13px
+  }
+  
+  .bodyImage {
+    text-align: center;
+  }
